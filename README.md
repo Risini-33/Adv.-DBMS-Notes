@@ -24,3 +24,13 @@
    - relationships
    - multiplicity
    - participation constraints
+
+4
+- the limitations of the basic concepts of the ER model
+- EERD model
+- additional data modeling concepts
+   - super class / sub class
+   - specialization / generalization
+   - constraints in EER model
+   - specialization hierarchy and lattice
+   - union type or category
