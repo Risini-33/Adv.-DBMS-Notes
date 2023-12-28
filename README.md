@@ -15,4 +15,12 @@
 - what is database schema and instances
 - what is data dictionary
 - what is data independance
-- what are the two levels of data independence 
+- what are the two levels of data independence
+
+3
+- ERD
+   - entity
+   - attributes
+   - relationships
+   - multiplicity
+   - participation constraints
